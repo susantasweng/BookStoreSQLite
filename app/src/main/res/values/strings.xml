@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Books</string>
+    <string name="msg_no_books">No books found!</string>
+    <string name="lbl_new_book_title">Book Title</string>
+    <string name="lbl_edit_book_title">Edit Book Title</string>
+    <string name="lbl_new_book_author">Book Author</string>
+    <string name="lbl_edit_book_author">Edit Book Author</string>
+    <string name="hint_enter_book_title">Enter book title!</string>
+    <string name="hint_enter_book_author">Enter book author!</string>
+</resources>
